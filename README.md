@@ -6,7 +6,7 @@ Penggunaan metode ini ada dengan asumsi niche content sudah matang. Jadi siap un
 
 ### 1. Gunakan Keyword Research Tools
 Beberapa keyword research tool yang aku gunakan/pernah aku gunakan/aku tau:
-- Ahref (ini yang sekarang sering aku gunakan)
+- Ahref (ini yang sekarang sering aku gunakan). Kalau mau gratis, Ahrefs Keyword Generator (tapi ngoyo)
 - Semrush
 - Basic Google Suggest
 
