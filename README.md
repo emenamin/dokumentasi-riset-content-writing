@@ -18,3 +18,8 @@ Aku lagi mau bikin konten. Tapi korpo di tempat aku lagi gak support riset tool.
 - WPBeginner. 
 
 <hr />
+### Referensi website bagus (Content/Layout/Feature)
+
+Theme WordPress:
+- https://www.elegantthemes.com/blog/wordpress/best-editorial-calendar-plugins-for-wordpress#6-best-wordpress-editorial-calendar-plugins
+- https://coschedule.com/marketing-terms-definitions (Ada halaman konten dictionary)
