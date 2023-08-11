@@ -28,5 +28,7 @@ Kemarin aku buat konten tentang error Apache XAMPP. Namun aku sebenernya nggak m
 ### Referensi website bagus (Content/Layout/Feature)
 
 Theme WordPress:
-- https://www.elegantthemes.com/blog/wordpress/best-editorial-calendar-plugins-for-wordpress#6-best-wordpress-editorial-calendar-plugins
-- https://coschedule.com/marketing-terms-definitions (Ada halaman konten dictionary)
+| Link Website  | Domain   | Apa yang spesial?  |
+|---------------|----------|--------------------|
+| https://www.elegantthemes.com/blog/wordpress/best-editorial-calendar-plugins-for-wordpress#6-best-wordpress-editorial-calendar-plugins | Theme WordPress  | bagus aja|
+| https://coschedule.com/marketing-terms-definitions  | Blog  | (Ada halaman konten dictionary)  |
