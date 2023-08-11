@@ -15,7 +15,13 @@ Aku lagi mau bikin konten. Tapi korpo di tempat aku lagi gak support riset tool.
 - Niagahoster,
 - Themeisle,
 - Jagoweb,
-- WPBeginner. 
+- WPBeginner.
+
+## Metode Testing 
+Kemarin aku buat konten tentang error Apache XAMPP. Namun aku sebenernya nggak mengalami masalah itu. Tapi aku tau ada orang yang mengalami masalah tersebut. Jadinya aku harus experience the same thing, putting myself on their shoes. Ini trik yang aku lakukan:
+
+> Ask ChatGPT untuk nunjukin "Simulasi Error yang kamu butuhkan."
+> Hasilnya kayak gini: https://tonjoostudio.com/cara-mengatasi-error-apache-shutdown-unexpectedly-di-xampp/
 
 <hr />
 
