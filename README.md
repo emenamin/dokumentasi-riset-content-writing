@@ -33,3 +33,4 @@ Theme WordPress:
 | https://www.elegantthemes.com/blog/wordpress/best-editorial-calendar-plugins-for-wordpress#6-best-wordpress-editorial-calendar-plugins | Theme WordPress  | bagus aja|
 | https://coschedule.com/marketing-terms-definitions  | Blog  | (Ada halaman konten dictionary)  |
 | https://stackoverflow.com/  | Code | platform tanya jawab coding teknis  |
+| https://wpengine.com/  | Blog WP  | blog referensi buat content WP  |
