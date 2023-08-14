@@ -15,7 +15,8 @@ Aku lagi mau bikin konten. Tapi korpo di tempat aku lagi gak support riset tool.
 - Niagahoster,
 - Themeisle,
 - Jagoweb,
-- WPBeginner.
+- WPBeginner,
+- WPEngine.
 
 ## Metode Testing 
 Kemarin aku buat konten tentang error Apache XAMPP. Namun aku sebenernya nggak mengalami masalah itu. Tapi aku tau ada orang yang mengalami masalah tersebut. Jadinya aku harus experience the same thing, putting myself on their shoes. Ini trik yang aku lakukan:
