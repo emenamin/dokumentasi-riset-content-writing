@@ -35,3 +35,5 @@ Theme WordPress:
 | https://coschedule.com/marketing-terms-definitions  | Blog  | (Ada halaman konten dictionary)  |
 | https://stackoverflow.com/  | Code | platform tanya jawab coding teknis  |
 | https://wpengine.com/  | Blog WP  | blog referensi buat content WP  |
+| https://support.google.com/adsense/answer/13554116  | Google | ini bagian call to action bawah bagus sih  |
+| https://www.inmotionhosting.com/support/edu/wordpress/change-timezone-2/  | inmotion | i like this teknikal content writing website, simple dan jelas  |
