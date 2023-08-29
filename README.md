@@ -37,3 +37,10 @@ Theme WordPress:
 | https://wpengine.com/  | Blog WP  | blog referensi buat content WP  |
 | https://support.google.com/adsense/answer/13554116  | Google | ini bagian call to action bawah bagus sih  |
 | https://www.inmotionhosting.com/support/edu/wordpress/change-timezone-2/  | inmotion | i like this teknikal content writing website, simple dan jelas  |
+| https://kinsta.com/ | WP, Hosting | Pemilihan warna dan desainnya, drop down menunya, sama baner internal promo |
+| https://www.hubspot.com/home-page | Digital marketing | kerapian, blog |
+| https://www.crazyegg.com/blog/ | web | content2nya aja, design biasa |
+| https://getdevdone.com/ | web | brand identity coretnya cukup oke |
+| https://www.quicksprout.com/ | web, copy | contentnya sama kerapian desain |
+| https://www.wpoven.com/ | web hosting | landing page desain, content |
+
