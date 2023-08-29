@@ -44,3 +44,5 @@ Theme WordPress:
 | https://www.quicksprout.com/ | web, copy | contentnya sama kerapian desain |
 | https://www.wpoven.com/ | web hosting | landing page desain, content |
 
+Dokumentasi dibuat oleh: Moch. Nasikhun Amin. 
+
