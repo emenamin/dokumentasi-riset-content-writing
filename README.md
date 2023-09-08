@@ -43,6 +43,7 @@ Theme WordPress:
 | https://getdevdone.com/ | web | brand identity coretnya cukup oke |
 | https://www.quicksprout.com/ | web, copy | contentnya sama kerapian desain |
 | https://www.wpoven.com/ | web hosting | landing page desain, content |
+| https://www.inmotionhosting.com/support/edu/wordpress/wordpress-user-role-editor/  | hosting | layout content bagus  |
 |-------------------------|-------------|------------------------------|
 
 Dokumentasi dibuat oleh: Moch. Nasikhun Amin. 
