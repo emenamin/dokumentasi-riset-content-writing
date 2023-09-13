@@ -44,6 +44,7 @@ Theme WordPress:
 | https://www.quicksprout.com/ | web, copy | contentnya sama kerapian desain |
 | https://www.wpoven.com/ | web hosting | landing page desain, content |
 | https://www.inmotionhosting.com/support/edu/wordpress/wordpress-user-role-editor/  | hosting | layout content bagus  |
+| https://www.weglot.com/  | plugin website | website design bagus banget |
 |-------------------------|-------------|------------------------------|
 
 Dokumentasi dibuat oleh: Moch. Nasikhun Amin. 
