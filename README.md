@@ -26,7 +26,9 @@ Kemarin aku buat konten tentang error Apache XAMPP. Namun aku sebenernya nggak m
 
 ## Metode Follow Up/Deep Research
 Kalau udah ada keyword yang akan ditulis, bisa lihat apakah banyak peminatnya atau tidak dengan melihat related content yang performanya secara jelas visible, seperti konten youtube. Misal aku cek keyword "Cara Mengubah Mata Uang di WooCommerce" ada konten youtube yang bahas itu, punyanya Ae Nasrul, itu dilihat 1,8k orang. Berarti prevalensi masalah ini cukup besar. Kemudian untuk deep research, bisa lihat komentar2 di sana. Dari situ bisa dapet insight, kira2 struggle pengguna itu ada di mana. Bahkan bisa dapet ide pengembangan software. Contoh, di sana da yang tanya cara agar harga mengikuti rate. misalah harga $60. setelah difault currency otomatis jadi Rp857.000 dengan rate 1 USD = Rp. 14.500. 
+
 Referensi: https://prnt.sc/YW4Xvxga9ARu
+
 <hr />
 
 ### Referensi website bagus (Content/Layout/Feature)
