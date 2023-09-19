@@ -29,6 +29,11 @@ Kalau udah ada keyword yang akan ditulis, bisa lihat apakah banyak peminatnya at
 
 Referensi: https://prnt.sc/YW4Xvxga9ARu
 
+## Contoh Search Intent yang Bagus
+Ketika mau nulis kontent, perlu riset Latent Semantic Indexing untuk memahami search intent dari pengguna. Kadang penulis baru tuh kesulitan memahami apa itu search intent. Contoh-contoh yang tersedia juga kadang kurang masuk. Nah, ini si ini aku nemu contoh pentingnya memahami search intent dari user. Aku pakai kata kunci cara menggunakan GTM. Ternyata, ketika googling, ada dua hal jenis search intent: GTM as in Google Tag Manager dan GTM dalam parenting/berkaitan dengan anak. Ini dua market yang berbeda. Makanya perlu memahami search intent. Ini satu contoh, nanti kayaknya perlu banyak contoh lagi. (Ah, jadi keinget Abah yang selalu kasih contoh banyak banget in order for people beneran ngerti.
+
+Referensi: https://prnt.sc/mu3RuXb-YxFQ
+
 <hr />
 
 ### Referensi website bagus (Content/Layout/Feature)
