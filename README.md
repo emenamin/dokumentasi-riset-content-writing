@@ -56,6 +56,7 @@ Theme WordPress:
 | https://www.inmotionhosting.com/support/edu/wordpress/wordpress-user-role-editor/  | hosting | layout content bagus  |
 | https://www.weglot.com/  | plugin website | website design bagus banget |
 | https://wplearners.com/sidebar-in-wordpress-twenty-twenty-three-theme/ | WP | kontennya khusus WP |
+| https://css-tricks.com/ | CSS | coolest live website ever |
 |-------------------------|-------------|------------------------------|
 
 Dokumentasi dibuat oleh: Moch. Nasikhun Amin. 
