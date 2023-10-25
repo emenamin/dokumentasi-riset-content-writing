@@ -57,6 +57,7 @@ Theme WordPress:
 | https://www.weglot.com/  | plugin website | website design bagus banget |
 | https://wplearners.com/sidebar-in-wordpress-twenty-twenty-three-theme/ | WP | kontennya khusus WP |
 | https://css-tricks.com/ | CSS | coolest live website ever |
+| https://www.digitalocean.com/ | cloud hosting | cool copy and design |
 |-------------------------|-------------|------------------------------|
 
 Dokumentasi dibuat oleh: Moch. Nasikhun Amin. 
